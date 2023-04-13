@@ -2,17 +2,7 @@
 
 #### 1.搜索 `clash for Windows`
 
-
-
-![1](E:\Program Files\image\202205162228888.png)
-
-
-
 #### 2.下载支持Linux版
-
-
-
-![3](E:\Program Files\image\202205162229562.png)
 
 #### 3.安装准备
 
@@ -48,45 +38,15 @@ vim /usr/share/applications/clash.desktop
 
 #### 5.选择更多应用
 
-
-
-[![5](E:\Program Files\image\202205162229180.png)
-
 #### 6.点击 profiles 导入节点
-
-
-
-[![6](E:\Program Files\image\202205162229624.png)
 
 #### 7.复制订阅地址,点击 Download 
 
-
-
-[![7](E:\Program Files\image\202205162229154.png)
-
-
-
 #### 8.点击 General，打开 Mixin
-
-
-
-[![8](E:\Program Files\image\202205162229658.png)
-
-
 
 #### 9.设置代理
 
-
-
-[![9](E:\Program Files\image\202205162229396.png)
-
-
-
-[![10](E:\Program Files\image\202205162229738.png)
-
 #### 10.浏览器上网也需设置代理
-
-
 
 #### 11.应用设置代理
 
